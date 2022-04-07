@@ -1,0 +1,14 @@
+.*
+*.html
+.vscode
+build
+public
+src
+config-overrides.js
+paths.json
+README.md
+tsconfig.json
+webpack.config.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
